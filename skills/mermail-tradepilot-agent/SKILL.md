@@ -123,6 +123,5 @@ npx skills add Nudgen-Marketing/mermail-skills --skill mermail-tradepilot-agent
 
 ## References
 
-- `references/tools.md` — Tool usage and input guidance.
+- `references/tools.md` — Canonical Mermail and PayBox tool roles, availability, and safety constraints.
 - `references/security.md` — Approval and untrusted-data boundaries.
-- `scripts/fetch_price.py` — Optional quote-source helper, if retained.
