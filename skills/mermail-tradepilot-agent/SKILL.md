@@ -8,7 +8,7 @@ metadata:
         - MERMAIL_API_KEY
     primaryEnv: MERMAIL_API_KEY
     homepage: https://docs.mermail.app/agent-wallet/overview
-    emoji: "📈"
+    emoji: 📈
 ---
 
 # Mermail Tradepilot Agent
